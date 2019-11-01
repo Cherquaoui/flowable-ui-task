@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flowable-ui-task-rest" />
+        <module name="flowable-ui-task-logic" />
+        <module name="flowable-ui-task-conf" />
+        <module name="flowable-ui-task-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flowable-ui-task" target="1.8" />
+      <module name="flowable-ui-task-app" target="1.8" />
+      <module name="flowable-ui-task-conf" target="1.8" />
+      <module name="flowable-ui-task-logic" target="1.8" />
+      <module name="flowable-ui-task-rest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

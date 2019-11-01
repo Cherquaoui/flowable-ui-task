@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="flowable-ui-task-app:war">
+    <output-path>$PROJECT_DIR$/flowable-ui-task-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>flowable-ui-task-app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="flowable-task.war">
+      <element id="artifact" artifact-name="flowable-ui-task-app:war exploded" />
+    </root>
+  </artifact>
+</component>

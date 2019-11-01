@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-task.iml" filepath="$PROJECT_DIR$/flowable-ui-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-task-app/flowable-ui-task-app.iml" filepath="$PROJECT_DIR$/flowable-ui-task-app/flowable-ui-task-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-task-conf/flowable-ui-task-conf.iml" filepath="$PROJECT_DIR$/flowable-ui-task-conf/flowable-ui-task-conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-task-logic/flowable-ui-task-logic.iml" filepath="$PROJECT_DIR$/flowable-ui-task-logic/flowable-ui-task-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-task-rest/flowable-ui-task-rest.iml" filepath="$PROJECT_DIR$/flowable-ui-task-rest/flowable-ui-task-rest.iml" />
+    </modules>
+  </component>
+</project>
