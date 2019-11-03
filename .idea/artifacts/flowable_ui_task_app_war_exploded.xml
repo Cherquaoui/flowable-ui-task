@@ -14,6 +14,8 @@
           <element id="module-output" name="flowable-ui-task-app" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy-jsr223:2.5.8" />
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:2.5.7" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:2.1.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-json:2.1.6.RELEASE" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.9" />
@@ -163,8 +165,6 @@
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:5.1.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-crypto:5.1.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:5.1.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy-jsr223:2.5.7" />
-          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:2.5.7" />
           <element id="archive" name="flowable-ui-task-logic-6.4.2.jar">
             <element id="module-output" name="flowable-ui-task-logic" />
           </element>
